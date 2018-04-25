@@ -39,3 +39,6 @@ For example, for case 1 the values are like this.
 
 	float mDelete = 0.005;	//Fraction of Delete
 ----------------------------------------------------
+
+https://notebookbft.wordpress.com/2015/08/25/linked-list-with-read-write-locks-for-the-entire-linked-list/
+https://notebookbft.wordpress.com/2015/08/24/linkedlists-in-c/
